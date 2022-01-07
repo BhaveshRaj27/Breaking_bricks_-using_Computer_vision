@@ -1,4 +1,4 @@
-# Breaking_breaks_using_Computer_vision
+# Breaking_bricks_using_Computer_vision
 This Project is related to converting a retro game into a new game with more physical interaction(must required by my mom in each pc game) not just eye and finger coordination but the body. I used deep learning to implemet it. Game interface is not that great but real fun to play with family and friends(if you can bet on your physical strength).
 
 # Game Interfernce
