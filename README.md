@@ -25,4 +25,8 @@ If you want to play
 5. You can play it.
 
 # Want to see gameplay
-https://drive.google.com/file/d/1X4Epv4x7ROEP6P7vyqy2Q6DI1-iQPGrf/view?usp=sharing
+https://drive.google.com/file/d/14ZDY96avugZ2NRsj1EYLNxgF2gW7xrSQ/view?usp=sharing
+
+
+https://user-images.githubusercontent.com/65007351/148522979-c130406d-0ab5-4d69-9548-fc2b63a844f0.MP4
+
