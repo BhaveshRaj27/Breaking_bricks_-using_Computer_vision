@@ -24,3 +24,5 @@ If you want to play
 4. Change the path of the model in the script and install the library if needed.
 5. You can play it.
 
+# Want to see gameplay
+https://drive.google.com/file/d/1X4Epv4x7ROEP6P7vyqy2Q6DI1-iQPGrf/view?usp=sharing
