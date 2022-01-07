@@ -1,4 +1,4 @@
-# Breaking_breaks_-using_Computer_vision
+# Breaking_breaks_using_Computer_vision
 This Project is related to converting a retro game into a new game with more physical interaction(must required by my mom in each pc game) not just eye and finger coordination using deep learning. Game interface is not that great but real fun to play with family(if you can bet on your physical strength).
 
 # Game Interfernce
@@ -8,8 +8,8 @@ This Project is related to converting a retro game into a new game with more phy
 # Step to create the game
 1. You can use the game from the same code given in the code folder.
 2. Train the model using the posture you want to implement to make paddle move left and right(see code for more detail). I used 
-![](https://github.com/BhaveshRaj27/Breaking_breaks_-using_Computer_vision/blob/main/Data/Screenshot%20(265).png)
-![](https://github.com/BhaveshRaj27/Breaking_breaks_-using_Computer_vision/blob/main/Data/Screenshot%20(265).png)
+![](https://github.com/BhaveshRaj27/Breaking_breaks_-using_Computer_vision/blob/main/Data/download%20(8).jpg)
+![](https://github.com/BhaveshRaj27/Breaking_breaks_-using_Computer_vision/blob/main/Data/download%20(1).jpg)
 3. Used openCV and keras to predict the posture
 4. Run them and enjoy!
 
