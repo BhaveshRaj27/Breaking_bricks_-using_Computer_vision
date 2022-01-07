@@ -27,6 +27,10 @@ If you want to play
 # Want to see gameplay
 https://drive.google.com/file/d/14ZDY96avugZ2NRsj1EYLNxgF2gW7xrSQ/view?usp=sharing
 
+![](https://github.com/BhaveshRaj27/Breaking_breaks_-using_Computer_vision/blob/main/Data/gameplay_new.MP4)
 
-https://user-images.githubusercontent.com/65007351/148522979-c130406d-0ab5-4d69-9548-fc2b63a844f0.MP4
+
+
+![gameplay_new](https://user-images.githubusercontent.com/65007351/148525071-c8154a09-f580-433c-a44a-7a6620c90e97.gif)
+
 
