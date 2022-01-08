@@ -27,6 +27,11 @@ If you want to play
 # Want to see gameplay
 https://drive.google.com/file/d/14ZDY96avugZ2NRsj1EYLNxgF2gW7xrSQ/view?usp=sharing
 
+
+Hands up- to move left
+
+Hands in side -to move right
+
 ![](https://github.com/BhaveshRaj27/Breaking_breaks_-using_Computer_vision/blob/main/Data/gameplay_new.MP4)
 
 
